@@ -1,4 +1,26 @@
+/* Resset Básico*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: whitesmoke;
     font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    background-color: lightblue;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 32px;
 }
