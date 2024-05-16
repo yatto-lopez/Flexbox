@@ -16,9 +16,24 @@ body {
 }
 
 .item {
+    flex-grow: 1;
+    flex-shrink: 1;
     background-color: lightcoral;
     text-align: center;
     font-size: 24px;
     font-weight: bold;
     border: 1px solid black;
+}
+
+.apachurro1{
+    flex-shrink: 1;
+}
+.apachurro2{
+    flex-shrink: 2;
+}
+.apachurro3{
+    flex-shrink: 3;
+}
+.apachurro4{
+    flex-shrink: 4;
 }
