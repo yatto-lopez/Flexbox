@@ -26,14 +26,18 @@ body {
 }
 
 .apachurro1{
+    flex-grow: 1;
     flex-shrink: 1;
 }
 .apachurro2{
+    flex-grow: 1;
     flex-shrink: 2;
 }
 .apachurro3{
+    flex-grow: 1;
     flex-shrink: 3;
 }
 .apachurro4{
+    flex-grow: 1;
     flex-shrink: 4;
 }
